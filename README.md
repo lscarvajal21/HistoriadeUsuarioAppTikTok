@@ -1,5 +1,5 @@
 
-<img width="266" height="148" alt="image" src="https://github.com/user-attachments/assets/0b9ba9fc-39d7-47b4-8f19-dbdd807da3ec" />
+<div align="center" ><img width="266" height="148" alt="image" src="https://github.com/user-attachments/assets/0b9ba9fc-39d7-47b4-8f19-dbdd807da3ec" />
 <div align="center" > 🧍# Historia Usuario No. 1 Aplicación Google Maps  
 
 
