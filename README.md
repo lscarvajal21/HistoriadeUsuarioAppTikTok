@@ -1,22 +1,22 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/113d89a5-45cf-4e53-aed1-be4ef60e78f8" /> # <div align="center" > 🧍Historia Usuario No. 1 Aplicación Tik Tok 
+<img width="266" height="148" alt="image" src="https://github.com/user-attachments/assets/0b9ba9fc-39d7-47b4-8f19-dbdd807da3ec" /> <div align="center" > 🧍# Historia Usuario No. 1 Aplicación Google Maps 
 
 
+## Uso de aplicación Google Maps 🗺️ Mostrar en tiempo real, información sobre un accidente o cierres víales
 
-## Uso de aplicación bancaria móvil 📱 Mostrar hora en las transacciones
+**Como** usuario **quiero** que Google Maps, me muestre en tiempo real, los accidentes o cierres
+**para** poder tomar rutas alternas
 
-**Como** usuario **quiero** que al momento de realizar transferencias o pagos, se pueda visualizar la hora 
-**para** obtener un mayor control y registro de mi dinero   
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8149c0cc-a00a-4180-acd6-b2e2211de112" />
 
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/2d83ed9d-5431-46d3-b83e-4f122aa29409" />
 
 
 >CRITERIOS DE ACEPTACIÓN
 
-1. La hora debe vincularse automáticamente con la hora del teléfono
-2. La app debe manejar correctamente las zonas horarias. Si el usuario está en una zona horaria diferente a la de la transacción, la hora debe ser convertida a la zona horaria del usuario
-3. Al consultar las transacciones en la App bancaria móvil, la hora debe tener el formato de 24h y debe visualizarse tanto en el portal, como la app
-4. El usuario debe ser capaz de ver la hora exacta de todas las transacciones pasadas en su historial, independientemente de si son recientes o de hace días, meses o incluso años
-
+1. Google Maps, debería enviar las alertas en tiempo real del cierre o accidente en una vía (según la ubicación del dispositivo), debe contener fecha y hora del evento suscitado
+2. Se debe guardar la ruta más frecuente de viaje, y notificar con 20 km de anterioridad para lanzar las rutas alternas
+3. Debe guardarse información sobre el tiempo que durará el cierre de la vía (ya sea por accidente, cierre por eventos o trabajos en la vía)
+4. Debe permitir interactuar a otros usuarios, para colocar actualizaciones sobre las novedades de la vía
+   
 **Tipo de usuario:** Cliente 
-**Prioridad:** Media
-**Valor:** Permite obtener un mayor control y registro de ingresos y egresos
+**Prioridad:** Alta
+**Valor:** Permite obtener información precisa, para tomar rutas alternas
