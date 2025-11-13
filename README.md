@@ -8,7 +8,7 @@
 **Como** usuario **quiero** que Google Maps, me muestre en tiempo real, los accidentes o cierres
 **para** poder tomar rutas alternas
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8149c0cc-a00a-4180-acd6-b2e2211de112" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8149c0cc-a00a-4180-acd6-b2e2211de112" />
 
 
 
@@ -23,15 +23,14 @@
 **Prioridad:** Alta
 **Valor:** Permite obtener información precisa, para tomar rutas alternas
 
+
 🧍# Historia Usuario No. 2 Aplicación Google Maps 
 
+## Uso de aplicación Google Maps 🗺️ Personalización de voz e idioma, para dar indicaciones
 
-## Uso de aplicación Google Maps 🗺️ Mostrar en tiempo real, 
+**Como** usuario **quiero** que Google Maps, permita elegir el tipo de voz e idioma en que da las indicaciones, **para** tener una mejor interacción y conocimiento 
 
-**Como** usuario **quiero** que Google Maps, me muestre en tiempo real, los accidentes o cierres
-**para** poder tomar rutas alternas
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8149c0cc-a00a-4180-acd6-b2e2211de112" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/cf8d37d8-0659-443e-9e34-ecb20151f782" />
 
 
 
