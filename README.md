@@ -1,9 +1,9 @@
 
 <div align="center" ><img width="266" height="148" alt="image" src="https://github.com/user-attachments/assets/0b9ba9fc-39d7-47b4-8f19-dbdd807da3ec" />
-<div align="center" > 🧍# Historia Usuario No. 1 Aplicación Google Maps  
+<div align="center" > 👨# Historia Usuario No. 1 Aplicación Google Maps  
 
 
-## Uso de aplicación Google Maps 🗺️ Mostrar en tiempo real, información sobre un accidente o cierres víales
+## Uso de aplicación Google Maps 🚗 Mostrar en tiempo real, información sobre un accidente o cierres víales
 
 **Como** usuario **quiero** que Google Maps, me muestre en tiempo real, los accidentes o cierres
 **para** poder tomar rutas alternas
@@ -20,13 +20,15 @@
 4. Debe permitir interactuar a otros usuarios, para colocar actualizaciones sobre las novedades de la vía
    
 **Tipo de usuario:** Cliente 
+
 **Prioridad:** Alta
+
 **Valor:** Permite obtener información precisa, para tomar rutas alternas
 
 
-🧍# Historia Usuario No. 2 Aplicación Google Maps 
+🚶‍➡️ # Historia Usuario No. 2 Aplicación Google Maps 
 
-## Uso de aplicación Google Maps 🗺️ Personalización de voz e idioma, para dar indicaciones
+## Uso de aplicación Google Maps 🗣️ Personalización de voz e idioma, para dar indicaciones
 
 **Como** usuario **quiero** que Google Maps, permita elegir el tipo de voz e idioma en que da las indicaciones, **para** tener una mejor interacción y conocimiento 
 
@@ -40,12 +42,14 @@
 3. La elección del idioma, no debe afectar a las funcionalidades principales del mapa (búsquedas, rutas)
    
 **Tipo de usuario:** Cliente 
+
 **Prioridad:** Media
+
 **Valor:** Permite mejorar la interacción y el uso del cliente con google maps
 
-🧍# Historia Usuario No. 3 Aplicación Google Maps 
+🧑‍⚖️ # Historia Usuario No. 3 Aplicación Google Maps 
 
-## Uso de aplicación Google Maps 🗺️ Implementar la funcionalidad de conocer la velocidad del vehículo
+## Uso de aplicación Google Maps 🚀 Implementar la funcionalidad de conocer a que velocidad del vehículo
 
 **Como** usuario **quiero** que Google Maps, muestre la velocidad en la que se conduce, **para** evitar algún tipo de accidente
 
@@ -60,6 +64,8 @@
 4. Debe funcionar tanto en modo online, como offline, de los mapas descargados)
    
 **Tipo de usuario:** Cliente 
+
 **Prioridad:** Alta
+
 **Valor:** Evitar accidentes
 
