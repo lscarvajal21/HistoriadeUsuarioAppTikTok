@@ -33,15 +33,33 @@
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/cf8d37d8-0659-443e-9e34-ecb20151f782" />
 
 
+>CRITERIOS DE ACEPTACIÓN
+
+1. El usuario puede cambiar el idioma desde los ajustes de la cuenta o desde el menú de configuración de la app. 
+2. Google Maps, debe permitir elegir varios idiomas e ir guardando los idiomas de preferencia 
+3. La elección del idioma, no debe afectar a las funcionalidades principales del mapa (búsquedas, rutas)
+   
+**Tipo de usuario:** Cliente 
+**Prioridad:** Media
+**Valor:** Permite mejorar la interacción y el uso del cliente con google maps
+
+🧍# Historia Usuario No. 3 Aplicación Google Maps 
+
+## Uso de aplicación Google Maps 🗺️ Implementar la funcionalidad de conocer la velocidad del vehículo
+
+**Como** usuario **quiero** que Google Maps, muestre la velocidad en la que se conduce, **para** evitar algún tipo de accidente
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a248842a-6740-41b8-9c61-404f45ed6058" />
+
 
 >CRITERIOS DE ACEPTACIÓN
 
-1. Google Maps, debería enviar las alertas en tiempo real del cierre o accidente en una vía (según la ubicación del dispositivo), debe contener fecha, hora y tramo del evento suscitado
-2. Se debe guardar la ruta más frecuente de viaje, y notificar con 20 km de anterioridad para lanzar las rutas alternas
-3. Debe guardarse información sobre el tiempo que durará el cierre de la vía (ya sea por accidente, cierre por eventos o trabajos en la vía)
-4. Debe permitir interactuar a otros usuarios, para colocar actualizaciones sobre las novedades de la vía
+1. Basarse en los parámetros y lineamientos de acorde las normativas vigentes y debe quedar almacenada la información para futuras sesiones
+2. El velocímetro, debe mostrarse en una área visible que no obstruya el mapa
+3. Si el límite de velocidad de la vía está disponible, el velocímetro puede cambiar de color (ej. rojo) o mostrar una alerta cuando el usuario excede el límite.
+4. Debe funcionar tanto en modo online, como offline, de los mapas descargados)
    
 **Tipo de usuario:** Cliente 
 **Prioridad:** Alta
-**Valor:** Permite obtener información precisa, para tomar rutas alternas
+**Valor:** Evitar accidentes
 
