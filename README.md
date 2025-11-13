@@ -1,4 +1,6 @@
-<div align="center" > 🧍# Historia Usuario No. 1 Aplicación Google Maps  <img width="266" height="148" alt="image" src="https://github.com/user-attachments/assets/0b9ba9fc-39d7-47b4-8f19-dbdd807da3ec" />
+
+<img width="266" height="148" alt="image" src="https://github.com/user-attachments/assets/0b9ba9fc-39d7-47b4-8f19-dbdd807da3ec" />
+<div align="center" > 🧍# Historia Usuario No. 1 Aplicación Google Maps  
 
 
 ## Uso de aplicación Google Maps 🗺️ Mostrar en tiempo real, información sobre un accidente o cierres víales
